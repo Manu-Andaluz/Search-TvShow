@@ -1,1 +1,1 @@
-# Page to search and find where you can watch the tv show
+# This web page is to know where to watch a TV show. The search is performed by an Api
